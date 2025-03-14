@@ -2,9 +2,6 @@
 
 /*************************************************\
 * @file   : mmo_lib.h
-* @author : lb108197
-* @contact: lb108197@alibaba-inc.com
-* @brief  : Memory Map Objects library 
 *           复杂对象--线性映射库--无内存分配
 * @version: 1.1
 * @date   : 2020/11/30
